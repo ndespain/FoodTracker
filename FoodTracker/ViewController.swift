@@ -68,6 +68,5 @@ class ViewController: UIViewController, UITextFieldDelegate, UIImagePickerContro
         
         dismissViewControllerAnimated(true, completion: nil)
     }
-    
 }
 
